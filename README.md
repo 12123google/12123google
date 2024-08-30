@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @12123google
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning front end
-- 💞️ I’m looking to collaborate on IDK
+- 💞️ I’m looking to collaborate on Front End projects
 - 📫 How to reach me tg - @limanopopus
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm Azerbaijabian 
