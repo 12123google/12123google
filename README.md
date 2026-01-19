@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @12123google
-- 👀 I’m interested in IT
-- 💞️ I’m looking to collaborate on Front End projects
-- 📫 How to reach me tg - @limanopopus
+- Computer Science student!
+- 📫 How to reach me IG | TG | DC - @12123google
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm Azerbaijabian 
 
